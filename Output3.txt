@@ -1,0 +1,70 @@
+Type of Vehicle is Internal Combustion Engine Vehicle(ICEV)
+Engine Material: Iron
+Engine Chassis ID : 54531
+Manufacturer Name is BMW
+Manufacturing year is 2022
+Manufacturing cost is 35000 Euro
+
+Type of Vehicle is Internal Combustion Engine Vehicle(ICEV)
+Engine Material: Cast Iron
+Engine Chassis ID : 54535
+Manufacturer Name is Porsche
+Manufacturing year is 2022
+Manufacturing cost is 45000 Euro
+
+Type of Vehicle is Internal Combustion Engine Vehicle(ICEV)
+Engine Material: Iron
+Engine Chassis ID : 54531
+Manufacturer Name is Benz
+Manufacturing year is 2023
+Manufacturing cost is 40000 Euro
+
+Type of Vehicle is Battery Electric Vehicle(BEV)
+Engine Material: alsuminium
+Engine Chassis ID : 15678
+Manufacturer Name is Tesla
+Manufacturing year is 2023
+Manufacturing cost is 35000 Euro
+
+Type of Vehicle is Battery Electric Vehicle(BEV)
+Engine Material: alsuminium
+Engine Chassis ID : 15678
+Manufacturer Name is BMW
+Manufacturing year is 2022
+Manufacturing cost is 35000 Euro
+
+Type of Vehicle is Battery Electric Vehicle(BEV)
+Engine Material: alsuminium
+Engine Chassis ID : 15678
+Manufacturer Name is Benz
+Manufacturing year is 2023
+Manufacturing cost is 40000 Euro
+
+Type of Vehicle is Battery Electric Vehicle(BEV)
+Engine Material: alsuminium
+Engine Chassis ID : 15678
+Manufacturer Name is Audi
+Manufacturing year is 2021
+Manufacturing cost is 30000 Euro
+
+Type of Vehicle is Hybrid Vehicle(HybridV)
+Engine Material: Stell
+Engine Chassis ID : 73657
+Manufacturer Name is Porsche
+Manufacturing year is 2022
+Manufacturing cost is 45000 Euro
+
+Type of Vehicle is Hybrid Vehicle(HybridV)
+Engine Material: Stell
+Engine Chassis ID : 73657
+Manufacturer Name is Audi
+Manufacturing year is 2021
+Manufacturing cost is 30000 Euro
+
+Type of Vehicle is Hybrid Vehicle(HybridV)
+Engine Material: Stell
+Engine Chassis ID : 73657
+Manufacturer Name is Benz
+Manufacturing year is 2023
+Manufacturing cost is 40000 Euro
+
